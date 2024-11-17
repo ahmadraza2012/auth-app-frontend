@@ -2,7 +2,40 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About the Project
+
+This project is a user authentication module developed using the React framework. The design elements are open to creativity, and additional modules or libraries (including design frameworks) can be used if necessary.
+
+### Features
+
+- **Sign Up Page**: 
+    - Create a signup form with the following fields: email, name, and password.
+    - After successful signup, users are redirected to the application page.
+    - Password requirements:
+        - Minimum length of 8 characters
+        - Contains at least 1 letter
+        - Contains at least 1 number
+        - Contains at least 1 special character
+
+- **Sign In Page**: 
+    - Create a sign-in form with fields for email and password.
+
+    - **Application Page**: 
+        - Create a page displaying a welcome message: "Welcome to the application."
+
+        ## Project Images
+
+        Here are some screenshots of the application:
+
+        ### Sign Up Page
+        ![Sign Up Page](./public/signup.png)
+
+        ### Sign In Page
+        ![Sign In Page](./public/signin.png)
+
+        ### Application Page
+        ![Application Page](./public/welcome.png)
+    ## Available Scripts
 
 In the project directory, you can run:
 
